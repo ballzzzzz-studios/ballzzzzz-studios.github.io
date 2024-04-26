@@ -18,6 +18,20 @@
             padding: 20px;
             text-align: center;
         }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #00FFFF;
+            color: #0000FF;
+            text-decoration: none;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .btn:hover {
+            background-color: #555;
+        }
         a {
             color: #000; /* Change link color as per your design */
             text-decoration: none;
@@ -69,13 +83,13 @@
             <h2>About Us</h2>
             <p>We're Ballzzzzz Studios. We create things related to Eaglercraft.</p>
             <h2>Team</h2>
-            <p>frostneek <button><a href="https://github.com/frostneek">Profile</a></button></p>
-            <p>gimmedaballzzzzz <button><a href="https://github.com/TheCrestWizard">Profile</a></button></p>
+            <p>frostneek <button class="btn"><a href="https://github.com/frostneek">Profile</a></button></p>
+            <p>gimmedaballzzzzz <button class="btn"><a href="https://github.com/TheCrestWizard">Profile</a></button></p>
         </section>
         <section id="games">
             <h2>Our Creations</h2>
             <p>Check out our latest creations:</p>
-            <a href="ballzzzzz-client">Ballz Client</a>
+            <button><a href="ballzzzzz-client" class="btn">Ballz Client</a></button>
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
