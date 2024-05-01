@@ -11,11 +11,7 @@ We're Ballzzzzz Studios, where creativity knows no bounds. From games to music, 
 Meet the minds behind Ballzzzzz Studios:
 
 - [frostneek](https://github.com/frostneek) - Head Developer, Founder, CEO.
-
-![frostneek's GitHub stats](https://ballzzzzz-studios.github.ios.vercel.app/api?username=frostneek&show_icons=true)
 - [gimmedaballzzzzz](https://github.com/TheCrestWizard) - Developer
-
-![gimmedaballzzzzz's GitHub stats](https://ballzzzzz-studios.github.ios.vercel.app/api?username=TheCrestWizard&show_icons=true)
 
 ## Featured Creation
 
